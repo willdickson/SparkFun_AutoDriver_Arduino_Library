@@ -3,6 +3,8 @@ SparkFun AutoDriver Arduino Library
 [![AutoDriver](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/6/1/1/11611-01_medium.jpg)  
 *AutoDriver (BOB-13752)*](https://www.sparkfun.com/products/13752)
 
+Modified version of AutoDriver library which fixes factor of 2 issue for the setAcc, getAcc, setDec,  getAcc methods. Hopefully, temporary until main library is patched.
+
 The AutoDriver is a bipolar stepper driver based on the ST Micro L6470 chip.
 It allows a processor to control a single 3A bipolar stepper motor across an 8-45V supply range.
 
