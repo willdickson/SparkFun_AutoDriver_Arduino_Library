@@ -3,8 +3,9 @@ SparkFun AutoDriver Arduino Library
 [![AutoDriver](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/6/1/1/11611-01_medium.jpg)  
 *AutoDriver (BOB-13752)*](https://www.sparkfun.com/products/13752)
 
-** Depreciated!  Don't use this version ... using this one***
-** [https://github.com/sparkfun/L6470-AutoDriver](https://github.com/sparkfun/L6470-AutoDriver) **
+**Depreciated!  Don't use this version ... using this one**
+
+**[https://github.com/sparkfun/L6470-AutoDriver](https://github.com/sparkfun/L6470-AutoDriver)**
 
 Modified version of AutoDriver library which fixes factor of 2 issue for the setAcc, getAcc, setDec,  getAcc methods. Hopefully, temporary until main library is patched.
 
